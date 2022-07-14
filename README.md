@@ -7,3 +7,4 @@ The Digital Database for Screening Mammography has been upgraded and standardize
 The above dataset is used for research purposes with the intent to detect cancerous mass with the help of Convolution Neural Nets Architectures. Before applying the transfer learning technique, the image is been converted into .png format and resized. Moreover, techniques like LBP and HOG are also applied to extract the hand-crafted features of an image.
 
 
+!(/images/capture.png)
